@@ -1,25 +1,22 @@
+//Modificado por:Kevin Eduardo Caicedo Quiñonez
+//27/09/2022
 #include<iostream> 
  using namespace std; 
  int main() 
  { 
-         float a,b; 
-         cout<<"ingrese a b:"; cin>>a>>b; 
-         if(a>b) 
+         float k,c; 
+         cout<<"ingrse k c:"; cin>>k>>c; 
+         if(k>c) 
          { 
-           cout<<a<<" es mayor a "<<b<<endl; 
-  
+            cout<<k<<"es mayor k "<<c<<endl; 
   
          }else{ 
-  
-           cout<<b<<" es mayor a "<<a<<endl; 
-  
+             
+            cout<<c<<"es mayor k "<<k<<endl; 
   
          } 
   
          return 0; 
-  
-  
-  
   
   
   
